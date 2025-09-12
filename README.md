@@ -6,7 +6,7 @@ My main passion are videogames and that's where I usually try to apply all my kn
 + 📄 LANGUAGES: 
   + C#
   + Python
-  + C++
+  + C/C++
   + HTML / CSS
   + Bash
 + 💻 SOFTWARE:
