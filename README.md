@@ -16,4 +16,4 @@ My main passion are videogames and that's where I usually try to apply all my kn
   + Git (duh)
 
 🤔 **What am I working right now?**
-  + ⚙️ Right now I'm developing a basic SDL2 engine! ⚙️ (right now is a private repo 😵‍💫)
+  + ⚙️ Right now I'm developing a basic SDL2 engine! (right now is a private repo 😵‍💫)
