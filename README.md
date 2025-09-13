@@ -15,7 +15,7 @@ My main passion are videogames and that's where I usually try to apply all my kn
   + Arch Linux / KDE Plasma 🐧 
   + Unity 
   + VS/Code
-  + Git (duh)
+  + Git
 
 🤔 **What am I working right now?**
   + ⚙️ Right now I'm developing a [basic SDL2 engine](https://github.com/HiperGlue/SimpleSDL)!
