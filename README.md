@@ -16,6 +16,3 @@ My main passion are videogames and that's where I usually try to apply all my kn
   + Unity 
   + VSCode
   + Git
-
-🤔 **What am I working right now?**
-  + ⚙️ Right now I'm developing a [basic game engine](https://github.com/HiperGlue/SimpleSDL)!
