@@ -12,7 +12,7 @@ My main passion are videogames and that's where I usually try to apply all my kn
   + HTML / CSS
   + Bash
 + 💻 **SOFTWARE**:
-  + Arch Linux / KDE Plasma 🐧 
+  + Fedora Linux / KDE Plasma 🐧 
   + Unity 
   + VSCode
   + Git
